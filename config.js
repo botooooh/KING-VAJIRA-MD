@@ -9,15 +9,15 @@ const fs = require('fs-extra')
  global.email = 'sam@secktor.live' 
  global.github = 'https://github.com/vajirabot1' 
  global.location = 'Sri lanka, Rathnapura' 
- global.gurl = 'https://instagram.com/' // add your username 
- global.sudo = process.env.SUDO || '919628516236' 
- global.devs = '919628516236'; 
+ global.gurl = 'https://www.instagram.com/quoi_ivan/profilecard/?igsh=MTFwcjBxemY1cjQ4aQ==' // add your username 
+ global.sudo = process.env.SUDO || '2250151191073' 
+ global.devs = '2250151191073'; 
  global.website = 'https://github.com/' //wa.me/+91000000000000 
- global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg' 
+ global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://www.google.com/search?q=ghost+call+of+duty+gif&sca_esv=ec5901422a0bf13c&udm=2&biw=394&bih=761&sxsrf=ADLYWILjlkbumV2xnp_CN1ddNGDygkCUrg%3A1734497596977&ei=PFViZ-umO-imkdUPl-u9sAE&oq=ghost+call+of+duty+gof&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciFmdob3N0IGNhbGwgb2YgZHV0eSBnb2YqAggAMgcQABiABBgNMgYQABgNGB4yBhAAGA0YHjIGEAAYDRgeMgYQABgNGB5I5DJQjQhY-ChwAngAkAEAmAHDCKABshKqAQ0wLjEuMi41LTEuMC4xuAEByAEA-AEBmAIHoALrEsICBBAjGCfCAgYQABgHGB7CAgUQABiABMICChAAGIAEGEMYigXCAgQQABgewgIGEAAYCBgemAMAiAYBkgcNMi4wLjMuMC4xLjAuMaAHjxE&sclient=mobile-gws-wiz-img#vhid=DeoA0aETEPS93M&vssid=mosaic' 
  module.exports = { 
    botname:   process.env.BOT_NAME === undefined ? 'King-Vajira' : process.env.BOT_NAME, 
-   ownername: process.env.OWNER_NAME === undefined ? 'Vajira' : process.env.OWNER_NAME,  
-   author:  process.env.PACK_INFO.split(";")[0] === undefined ? '' : process.env.PACK_INFO.split(";")[0], 
+   ownername: process.env.OWNER_NAME === undefined ? '𝕴𝖛𝖆𝖓×͜×👑' : process.env.OWNER_NAME,  
+   author:  process.env.PACK_INFO.split(";")[0] === undefined ? '𝕴𝖛𝖆𝖓×͜×👑 : process.env.PACK_INFO.split(";")[0], 
    auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS, 
    packname:  process.env.PACK_INFO.split(";")[1] === undefined ? '-' : process.env.PACK_INFO.split(";")[1],
    sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID, 
@@ -46,7 +46,7 @@ voice  :  process.env.AUTO_VOICE === undefined ? false : process.env.AUTO_VOICE,
  }, 
    VERSION: process.env.VERSION === undefined ? 'v.0.0.2' : process.env.VERSION, 
    LANG: process.env.THEME|| '-', 
-   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE 
+   WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE 
  }; 
   
   
